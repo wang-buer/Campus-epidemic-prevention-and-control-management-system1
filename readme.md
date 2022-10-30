@@ -8,7 +8,7 @@
 - 教师：成绩录入、课表查看、授课查询等
 - 学生：查看选修课程、选课、成绩查询、课表查询、个人信息修改等
 
-[点击观看项目视频](https://mp.weixin.qq.com/s/XL0xMStqj39LDjkxxEjJKg)
+[点击观看项目视频，位于最下方](https://mp.weixin.qq.com/s/XL0xMStqj39LDjkxxEjJKg)
 
 
 ## 2、项目技术
