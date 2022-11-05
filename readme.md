@@ -1,4 +1,4 @@
-# 教务学生选课管理系统
+# 教务学生选课管理系统 学生管理系统
 
 ## 1、项目介绍
 
@@ -8,7 +8,7 @@
 - 教师：成绩录入、课表查看、授课查询等
 - 学生：查看选修课程、选课、成绩查询、课表查询、个人信息修改等
 
-[点击观看项目视频，位于最下方](https://mp.weixin.qq.com/s/XL0xMStqj39LDjkxxEjJKg)
+[点击查看学生信息管理合集代码介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2544356222163189761&scene=21#wechat_redirect)
 
 
 ## 2、项目技术
